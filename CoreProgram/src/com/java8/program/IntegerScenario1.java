@@ -15,5 +15,6 @@ public class IntegerScenario1 {
         System.out.println("Result of int:"+sumResult);
         System.out.println("Result of Long:"+sumResult1);
         String.valueOf(input).chars().map(Character::getNumericValue).sum();
+
     }
 }
